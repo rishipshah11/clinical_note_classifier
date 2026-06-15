@@ -1,4 +1,4 @@
-# 🩺 Clinical Note Classifier
+#  Clinical Note Classifier
 
 An NLP-based ML system that automatically classifies clinical notes into 6 categories:
 
@@ -6,7 +6,7 @@ An NLP-based ML system that automatically classifies clinical notes into 6 categ
 
 ---
 
-## 🔧 Tech Stack
+##  Tech Stack
 
 | Layer | Tools |
 |---|---|
@@ -18,7 +18,7 @@ An NLP-based ML system that automatically classifies clinical notes into 6 categ
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 clinical_note_classifier/
@@ -39,7 +39,7 @@ clinical_note_classifier/
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 ### 1. Install dependencies
 ```bash
@@ -69,7 +69,7 @@ streamlit run app.py
 
 ---
 
-## 📊 Model Performance
+## Model Performance
 
 | Model | Accuracy | F1 Score |
 |---|---|---|
@@ -78,7 +78,7 @@ streamlit run app.py
 
 ---
 
-## 🐳 Docker Deployment
+##  Docker Deployment
 
 ```bash
 docker build -t clinical-note-classifier .
