@@ -1,0 +1,46 @@
+text,label
+"Patient presents with fever 102F, cough and sore throat. Diagnosed with acute pharyngitis.",Diagnosis
+"Prescribed Amoxicillin 500mg twice daily for 7 days. Avoid alcohol during medication.",Prescription
+"CBC report: WBC 11.2, RBC 4.8, Hemoglobin 13.5, Platelets 210. Mild leukocytosis noted.",Lab Report
+"Chest X-ray shows mild cardiomegaly. No pleural effusion. Lungs clear bilaterally.",Radiology
+"Patient advised to return in 2 weeks for follow-up. Monitor blood pressure daily.",Follow-up
+"Patient discharged in stable condition. Diagnosis: Type 2 Diabetes. Follow up with endocrinologist.",Discharge Summary
+"MRI brain scan reveals no acute intracranial abnormality. Normal study.",Radiology
+"Metformin 850mg prescribed twice daily with meals. Monitor blood sugar weekly.",Prescription
+"Fasting blood glucose: 186 mg/dL. HbA1c: 8.2%. Lipid panel: Total cholesterol 210.",Lab Report
+"Patient diagnosed with hypertension stage 1. BP recorded at 145/92 mmHg.",Diagnosis
+"Ibuprofen 400mg prescribed three times daily after meals for pain management.",Prescription
+"Urinalysis: Protein 2+, glucose negative, WBC 5-10/hpf. Possible UTI.",Lab Report
+"Schedule follow-up appointment in 4 weeks. Patient to continue current medications.",Follow-up
+"CT scan of abdomen: No evidence of appendicitis. Mild fatty liver noted.",Radiology
+"Patient discharged after successful appendectomy. No complications observed.",Discharge Summary
+"Diagnosed with seasonal allergic rhinitis. Avoid known allergens.",Diagnosis
+"Cetirizine 10mg once daily prescribed for allergy relief.",Prescription
+"Thyroid function test: TSH 4.2 mIU/L, T4 1.1 ng/dL. Within normal limits.",Lab Report
+"Return visit scheduled after 1 month for repeat blood tests.",Follow-up
+"Echocardiogram shows mild mitral valve regurgitation. Left ventricular function preserved.",Radiology
+"Patient stable and discharged. Advised complete bed rest for 1 week.",Discharge Summary
+"Acute bronchitis diagnosed based on clinical examination and symptoms.",Diagnosis
+"Azithromycin 500mg prescribed for 3 days. Take with food.",Prescription
+"Liver function test: SGPT 55 U/L, SGOT 48 U/L. Mildly elevated.",Lab Report
+"Next appointment scheduled in 6 weeks. Continue physiotherapy at home.",Follow-up
+"X-ray lumbar spine: Mild degenerative changes at L4-L5 level.",Radiology
+"Patient discharged in good health post knee replacement surgery.",Discharge Summary
+"Diagnosed with Type 2 Diabetes Mellitus based on fasting glucose levels.",Diagnosis
+"Glipizide 5mg prescribed once daily before breakfast.",Prescription
+"Renal function test: Creatinine 1.1 mg/dL, BUN 18 mg/dL. Normal range.",Lab Report
+"Follow-up in 3 months for HbA1c recheck and medication adjustment.",Follow-up
+"Ultrasound abdomen: Mild hepatomegaly noted. Gallbladder unremarkable.",Radiology
+"Discharged with instructions for wound care and oral antibiotics.",Discharge Summary
+"Patient presents with acute lower back pain radiating to left leg.",Diagnosis
+"Diclofenac 75mg twice daily for 5 days prescribed for inflammation.",Prescription
+"Complete metabolic panel: Sodium 138, Potassium 4.1, Calcium 9.2. All normal.",Lab Report
+"Review appointment in 2 weeks post discharge.",Follow-up
+"MRI spine shows herniated disc at L5-S1 with nerve root compression.",Radiology
+"Patient discharged after 3 days of IV antibiotics for pneumonia.",Discharge Summary
+"Diagnosed with iron deficiency anemia. Hemoglobin 9.2 g/dL.",Diagnosis
+"Ferrous sulfate 325mg prescribed twice daily with Vitamin C.",Prescription
+"Peripheral blood smear: Microcytic hypochromic RBCs consistent with iron deficiency.",Lab Report
+"Follow-up blood test in 8 weeks to assess response to iron therapy.",Follow-up
+"Bone density scan: T-score -2.7. Consistent with osteoporosis.",Radiology
+"Patient discharged in stable condition after cardiac catheterization.",Discharge Summary
